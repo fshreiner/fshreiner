@@ -16,7 +16,7 @@
 ---
 
 ## 📖 Certificações
-[![Linux Essentials (LPI)]()](http://lpi.org/v/LPI000547862/cc4q83rfen)
+**[Linux Essentials (LPI)](http://lpi.org/v/LPI000547862/cc4q83rfen)**
 
 ---
 
