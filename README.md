@@ -16,11 +16,7 @@
 ---
 
 ## 📖 Certificações
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=github-actions&logoColor=white&style=flat)
+[![Linux Essentials (LPI)]()](http://lpi.org/v/LPI000547862/cc4q83rfen)
 
 ---
 
